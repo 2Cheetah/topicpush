@@ -5,9 +5,9 @@
 ## Phase 1: Project Foundation
 
 1. **Set up GitHub repository**
-   - Monorepo structure: `/backend`, `/frontend`, `/docs`
-   - Add `.gitignore`, `README.md`, and `LICENSE`
-   - Set up branch protection rules and PR templates
+   - [x] Monorepo structure: `/backend`, `/frontend`, `/docs`
+   - [x] Add `.gitignore`, `README.md`, and `LICENSE`
+   - [x] Set up branch protection rules and PR templates
 
 2. **Set up project infrastructure**
    - Provision Supabase project (dev + prod environments)
